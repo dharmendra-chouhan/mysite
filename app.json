@@ -1,0 +1,17 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ],
+  "description": "mysite",
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "mysite",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
